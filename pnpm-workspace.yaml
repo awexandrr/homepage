@@ -1,0 +1,7 @@
+ignoredBuiltDependencies:
+  - core-js
+  - cpu-features
+  - osx-temperature-sensor
+  - protobufjs
+  - sharp
+  - ssh2

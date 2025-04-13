@@ -119,6 +119,7 @@ import tandoor from "./tandoor/widget";
 import tautulli from "./tautulli/widget";
 import tdarr from "./tdarr/widget";
 import technitium from "./technitium/widget";
+import telegram from "./telegram/widget";
 import traefik from "./traefik/widget";
 import transmission from "./transmission/widget";
 import truenas from "./truenas/widget";
@@ -259,6 +260,7 @@ const widgets = {
   tandoor,
   tautulli,
   technitium,
+  telegram,
   tdarr,
   traefik,
   transmission,
